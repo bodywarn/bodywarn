@@ -1,16 +1,32 @@
-## Hi there 👋
+<h1 align="center">Bodywarn</h1>
+<p align="center">full-stack developer</p>
 
-<!--
-**bodywarn/bodywarn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### Hey, I'm Bodywarn 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a full-stack developer, designer, and student, working primarily in the web development scene.  
+You can find my past projects and contact me on my [portfolio](https://yourportfolio.com).
+
+---
+
+### 🛠️ Languages and Tools
+
+#### Expert
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+<!-- tilføj flere ikoner med link til simpleicons -->
+
+#### Proficient
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
+
+#### Learning
+![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
+
+#### Interested in learning
+![Astro](https://img.shields.io/badge/-Astro-black?style=flat-square&logo=astro)
+
+---
+
+### 📊 Information
+![Profile Views](https://komarev.com/ghpvc/?username=krumbit&style=flat-square)
