@@ -13,7 +13,7 @@ You can find my past projects and contact me on my [portfolio](https://yourportf
 ### 🛠️ Languages and Tools
 
 #### Expert
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![JavaScript]([https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript](https://skillicons.dev/))
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 <!-- tilføj flere ikoner med link til simpleicons -->
 
