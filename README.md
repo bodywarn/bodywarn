@@ -17,7 +17,6 @@ You can find my past projects and contact me on my [portfolio](https://bodywarn.
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
-![Styled Components](https://img.shields.io/badge/-Styled--Components-black?style=flat-square&logo=styled-components)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js)
 ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
@@ -39,4 +38,4 @@ You can find my past projects and contact me on my [portfolio](https://bodywarn.
 ---
 
 ### 📊 Information
-![Profile Views](https://komarev.com/ghpvc/?username=krumbit&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=Bodywarn&style=flat-square)
