@@ -6,7 +6,7 @@
 ### Hey, I'm Bodywarn 👋
 
 I'm a full-stack developer, designer, and student, working primarily in the web development scene.  
-You can find my past projects and contact me on my [portfolio](https://yourportfolio.com).
+You can find my past projects and contact me on my [portfolio](https://bodywarn.netlify.app).
 
 ---
 
@@ -23,14 +23,17 @@ You can find my past projects and contact me on my [portfolio](https://yourportf
 ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
 ![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-black?style=flat-square&logo=tailwind-css)
 ![Three.js](https://img.shields.io/badge/-Three.js-black?style=flat-square&logo=three.js)
-
-#### Proficient
 ![C#](https://img.shields.io/badge/-C%23-black?style=flat-square&logo=c-sharp)
 ![Lua](https://img.shields.io/badge/-Lua-black?style=flat-square&logo=lua)
 ![Unity](https://img.shields.io/badge/-Unity-black?style=flat-square&logo=unity)
 ![Visual Studio Code](https://img.shields.io/badge/-VSCode-black?style=flat-square&logo=visual-studio-code)
 
+#### Proficient
+
 #### Learning
+
+
+#### Interested in learning
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
 
 ---
