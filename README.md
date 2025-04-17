@@ -13,18 +13,22 @@ You can find my past projects and contact me on my [portfolio](https://yourportf
 ### 🛠️ Languages and Tools
 
 #### Expert
-![JavaScript]([https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript](https://skillicons.dev/))
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-<!-- tilføj flere ikoner med link til simpleicons -->
+![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js)
+![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
+![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-black?style=flat-square&logo=tailwind-css)
 
 #### Proficient
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
 
 #### Learning
-![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
+![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
 
 #### Interested in learning
-![Astro](https://img.shields.io/badge/-Astro-black?style=flat-square&logo=astro)
+![Three.js](https://img.shields.io/badge/-Three.js-black?style=flat-square&logo=three.js)
 
 ---
 
