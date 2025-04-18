@@ -32,16 +32,18 @@ You can find my past projects and contact me on my [portfolio](https://bodywarn.
 ![Unity](https://img.shields.io/badge/-Unity-black?style=flat-square&logo=unity)
 ![Visual Studio Code](https://img.shields.io/badge/-VSCode-black?style=flat-square&logo=visual-studio-code)
 ![WordPress](https://img.shields.io/badge/-WordPress-black?style=flat-square&logo=wordpress)
+![Vite](https://img.shields.io/badge/-Vite-black?style=flat-square&logo=vite)
 
 ### DESIGN
 ![Figama](https://img.shields.io/badge/-Figma-black?style=flat-square&logo=figma)
 
 #### Proficient
-![GSAP](https://img.shields.io/badge/-GSAP-black?style=flat-square&logo=greensock)
+
 
 #### Learning
+![GSAP](https://img.shields.io/badge/-GSAP-black?style=flat-square&logo=greensock)
 
-#### Wanna Learn
+#### Interested in learning
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
 
 ---
