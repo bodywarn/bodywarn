@@ -1,5 +1,4 @@
-<h1 align="center">Bodywarn</h1>
-<p align="center">full-stack developer</p>
+![Banner](images/banner.png)
 
 ---
 
