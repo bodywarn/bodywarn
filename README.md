@@ -12,6 +12,7 @@ You can find my past projects and contact me on my [portfolio](https://bodywarn.
 
 ### 🌐 Socials
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/bV24cpNehX) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/nicklaz.lentz.33) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ngl0249) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ngl0249)
+
 ### 🛠️ Languages and Tools
 
 #### Expert
@@ -35,7 +36,6 @@ You can find my past projects and contact me on my [portfolio](https://bodywarn.
 ![Vite](https://img.shields.io/badge/-Vite-black?style=flat-square&logo=vite)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 
-
 ### DESIGN
 ![Figama](https://img.shields.io/badge/-Figma-black?style=flat-square&logo=figma)
 
@@ -44,7 +44,7 @@ You can find my past projects and contact me on my [portfolio](https://bodywarn.
 
 #### Learning
 ![GSAP](https://img.shields.io/badge/-GSAP-black?style=flat-square&logo=greensock)
-![discordjs](https://img.shields.io/badge/-Discord.js-black?style=flat-square&logo=discordjs)
+![Discord.js](https://img.shields.io/badge/-Discord.js-black?style=flat-square&logo=discord)
 
 #### Interested in learning
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
@@ -54,4 +54,3 @@ You can find my past projects and contact me on my [portfolio](https://bodywarn.
 
 ### 📊 Information
 ![Profile Views](https://komarev.com/ghpvc/?username=Bodywarn&style=flat-square)
-
