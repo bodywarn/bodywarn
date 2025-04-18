@@ -48,8 +48,10 @@ You can find my past projects and contact me on my [portfolio](https://bodywarn.
 
 #### Interested in learning
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
+![Emotion](https://img.shields.io/badge/-Emotion-black?style=flat-square&logo=emotion)
 
 ---
 
 ### 📊 Information
 ![Profile Views](https://komarev.com/ghpvc/?username=Bodywarn&style=flat-square)
+
