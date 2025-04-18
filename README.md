@@ -44,6 +44,7 @@ You can find my past projects and contact me on my [portfolio](https://bodywarn.
 
 #### Learning
 ![GSAP](https://img.shields.io/badge/-GSAP-black?style=flat-square&logo=greensock)
+![DISCORDJS](https://img.shields.io/badge/-Discord.js-black?style=flat-square&logo=discordjs)
 
 #### Interested in learning
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
