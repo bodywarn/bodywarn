@@ -34,7 +34,7 @@ You can find my past projects and contact me on my [portfolio](https://bodywarn.
 ![WordPress](https://img.shields.io/badge/-WordPress-black?style=flat-square&logo=wordpress)
 
 ### DESIGN
-![Figama](https://img.shields.io/badge/-Unity-black?style=flat-square&logo=figma)
+![Figama](https://img.shields.io/badge/-Figma-black?style=flat-square&logo=figma)
 
 #### Proficient
 ![GSAP](https://img.shields.io/badge/-GSAP-black?style=flat-square&logo=greensock)
