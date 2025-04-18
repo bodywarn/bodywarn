@@ -1,4 +1,4 @@
-![Banner](images/standard.png)
+![Banner](images/banner.png)
 
 ---
 
