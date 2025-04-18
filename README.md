@@ -10,6 +10,8 @@ You can find my past projects and contact me on my [portfolio](https://bodywarn.
 
 ---
 
+### 🌐 Socials
+
 ### 🛠️ Languages and Tools
 
 #### Expert
@@ -35,6 +37,8 @@ You can find my past projects and contact me on my [portfolio](https://bodywarn.
 ![GSAP](https://img.shields.io/badge/-GSAP-black?style=flat-square&logo=greensock)
 
 #### Learning
+
+#### Wanna Learn
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
 
 ---
