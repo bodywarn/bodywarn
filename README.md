@@ -1,7 +1,7 @@
 ![Banner](images/banner.png)
 
 ---
-
+<img align="right" height="120" src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif?cid=790b7611b31agwec022u0d2xj2nxxc8ay6hpvp1b9320xbws&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
 <h3 align="center">Hey, I'm <strong>Bodywarn</strong> 👋</h3>
 <p align="center">
   A full-stack developer, designer & student, passionate about building sleek, interactive web experiences.
