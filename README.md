@@ -33,6 +33,8 @@ You can find my past projects and contact me on my [portfolio](https://bodywarn.
 ![Visual Studio Code](https://img.shields.io/badge/-VSCode-black?style=flat-square&logo=visual-studio-code)
 ![WordPress](https://img.shields.io/badge/-WordPress-black?style=flat-square&logo=wordpress)
 ![Vite](https://img.shields.io/badge/-Vite-black?style=flat-square&logo=vite)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+
 
 ### DESIGN
 ![Figama](https://img.shields.io/badge/-Figma-black?style=flat-square&logo=figma)
