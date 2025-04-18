@@ -9,6 +9,7 @@ I'm a full-stack developer, designer, and student, working primarily in the web 
 You can find my past projects and contact me on my [portfolio](https://bodywarn.netlify.app).
 
 ---
+<img align="right" height="120" src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif?cid=790b7611b31agwec022u0d2xj2nxxc8ay6hpvp1b9320xbws&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
 
 ### 🌐 Socials
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)]([https://discord.gg/sdf](https://discord.gg/bV24cpNehX)) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)]([https://facebook.com/sdf](https://www.facebook.com/nicklaz.lentz.33/)) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://github.com/bodywarn) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/sdf](https://www.linkedin.com/in/ngl0249/))
