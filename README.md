@@ -1,4 +1,4 @@
-![Banner](images/standard.gif)
+![Banner](images/banner.gif)
 
 ---
 
