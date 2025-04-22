@@ -8,7 +8,7 @@
 </p>
 <p align="center">
   🧠 Forever learning & leveling up.  
-  🔗 <a href="https://bodywarn.netlify.app">Check out my portfolio</a>
+  🔗 <a href="https://bodywarn.com">Check out my portfolio</a>
 </p>
 
 ---
