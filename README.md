@@ -1,14 +1,13 @@
 ![Banner](images/banner.png)
 
 <div align="center">
-  <img src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif?cid=790b7611b31agwec022u0d2xj2nxxc8ay6hpvp1b9320xbws&ep=v1_gifs_search&rid=giphy.gif&ct=g" height="110" />
-
-  # 👋 Hey, I'm **Bodywarn**
-  *Full-stack developer • Designer • Student*  
-  *Building sleek, interactive web experiences with a creative edge.*
-
-  🧠 Always learning new ways to push design & performance  
-  🔗 [bodywarn.com](https://bodywarn.com)
+  <img src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif?cid=790b7611b31agwec022u0d2xj2nxxc8ay6hpvp1b9320xbws&ep=v1_gifs_search&rid=giphy.gif&ct=g" height="120" />
+  
+  # Hey, I'm **Bodywarn** 👋
+  *Full-stack developer, designer & student building sleek, interactive web experiences.*
+  
+  🧠 Always learning & leveling up  
+  🔗 [Check out my portfolio](https://bodywarn.com)
 </div>
 
 ---
@@ -24,61 +23,40 @@
 
 ---
 
-## 🧰 Tech Toolbox
+## 🧰 Tech Toolbox  
 
 <p align="center">
-  <!-- Core -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" />
-
-  <!-- Frontend -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" />
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" height="40" />
-
-  <!-- Backend -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/gilbarbara/logos/logos/supabase-icon.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/pocketbase/pocketbase/site/static/img/logo.svg" height="40" />
-
-  <!-- Tools & Design -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" height="40" />
-
-  <!-- Bots / Game Dev -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40" />
-
-  <!-- Creative -->
-  <img src="https://cdn.jsdelivr.net/gh/gilbarbara/logos/logos/threejs.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/gilbarbara/logos/logos/gsap-greensock.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" height="40" />
+  <img src="https://assets.streamlinehq.com/image/private/w_30,h_30,ar_1/f_auto/v1/icons/logos/pocketbase-3hhgqrjyq82yaz1oc4xkl.png/pocketbase-18sdo779cqgjd92b59ga5.png?_a=DATAdtWOZAA0" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" />
 </p>
-
 
 ---
 
 ## 🚀 Currently Exploring
 
-- 🦀 Low-level development in **Rust**
-- ☁️ Backends with **PocketBase** & **Supabase**
-- 🧩 Full-stack apps with **Next.js 15**
-- 🧠 Performance-focused UI/UX design
-- 💬 Advanced API & bot systems for **Discord**
+- 🧵 Styling with **Emotion**  
 
 ---
 
