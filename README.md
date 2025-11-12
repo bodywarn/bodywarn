@@ -1,4 +1,4 @@
-![Banner](images/banner.png)
+![Banner](images/banner2.png)
 
 <div align="center">
   <img src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif?cid=790b7611b31agwec022u0d2xj2nxxc8ay6hpvp1b9320xbws&ep=v1_gifs_search&rid=giphy.gif&ct=g" height="120" />
