@@ -56,7 +56,7 @@
 
 ## 📊 GitHub Stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=warn)](https://github.com/warn/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bodywarn)](https://github.com/bodywarn/github-readme-stats)
 
 
 <p align="center">
