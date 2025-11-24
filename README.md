@@ -56,12 +56,12 @@
 
 ## 📊 GitHub Stats
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bodywarn&theme=radical)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bodywarn&theme=radical)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bodywarn&theme=radical)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bodywarn&theme=radical)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bodywarn&theme=radical)
-
+<!-- Nordligt tema (blå/hvid) -->
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bodywarn&theme=nord_bright)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bodywarn&theme=nord_bright)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bodywarn&theme=nord_bright)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bodywarn&theme=nord_bright)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bodywarn&theme=nord_bright)
 
 <p align="center">
   <img 
