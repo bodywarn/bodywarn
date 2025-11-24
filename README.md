@@ -56,7 +56,7 @@
 
 ## 📊 GitHub Stats
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bodywarn&show_icons=true&locale=en" alt="bodywarn" /></p>
+<img alt="my stats" src="(https://github-readme-stats.vercel.app/api?username=bodyawrn"/>
 
 
 <p align="center">
