@@ -67,10 +67,43 @@
 </p>
 
 ## 📊 GitHub Stats
-### Languages and Tools
-<p align="left"> <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chrisbanes&show_icons=true&locale=en" alt="chrisbanes" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bodywarn&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=bodywarn&theme=radical" alt="GitHub Streak" />
+</p>
+
+## 🧠 Top Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bodywarn&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+## 🧰 Top Skills
+
+<p align="left">
+  <a href="https://developer.android.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="40" height="40"/>
+  </a>
+  <a href="https://kotlinlang.org" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" width="40" height="40"/>
+  </a>
+</p>
+
+## 📅 Top Commits (Last Year)
+
+> GitHub doesn’t provide a direct “top commits” stat,  
+> but GitHub Metrics *can* generate it.
+
+Add this badge:
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bodywarn&theme=radical" alt="Contribution Graph">
 </p>
 
 <p align="center">
