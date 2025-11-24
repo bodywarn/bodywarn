@@ -56,14 +56,13 @@
 
 ## 📊 GitHub Stats
 
-<p align="left">
+<p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bodywarn&theme=nord_bright" width="600">
 </p>
 
-<p align="left">
+<p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bodywarn&theme=nord_bright" width="600">
 </p>
-
 
 <p align="center">
   <img 
