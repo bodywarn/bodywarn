@@ -56,7 +56,7 @@
 
 ## 📊 GitHub Stats
 
-<img alt="my stats" src="https://github-readme-stats.vercel.app/api?username=bodyawrn"/>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bodywarn)](https://github.com/bodywarn/github-readme-stats)
 
 
 <p align="center">
