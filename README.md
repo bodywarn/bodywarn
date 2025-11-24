@@ -69,21 +69,24 @@
 ## 📊 GitHub Stats
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=Bodywarn&show_icons=true&locale=en&rank_icon=github" 
+    src="[https://github-readme-stats.vercel.app/api?username=Bodywarn&show_icons=true&locale=en&rank_icon=github](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Bodywarn&show_icons=true
+)" 
     alt="Bodywarn GitHub Stats" 
   />
 </p>
 
 <p align="center">
   <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=Bodywarn" 
+    src="[https://github-readme-streak-stats.herokuapp.com/?user=Bodywarn](https://github-readme-stats-rust.vercel.app/api?username=Bodywarn
+)" 
     alt="GitHub Streak" 
   />
 </p>
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bodywarn&layout=compact" 
+    src="[https://github-readme-stats.vercel.app/api/top-langs/?username=Bodywarn&layout=compact](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Bodywarn&layout=compact
+)" 
     alt="Top Languages" 
   />
 </p>
