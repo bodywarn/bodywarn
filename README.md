@@ -56,7 +56,7 @@
 
 ## 📊 GitHub Stats
 
-<img alt="my stats" src="(https://github-readme-stats.vercel.app/api?username=bodyawrn"/>
+<img alt="my stats" src="https://github-readme-stats.vercel.app/api?username=bodyawrn"/>
 
 
 <p align="center">
