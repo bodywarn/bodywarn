@@ -65,3 +65,32 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Bodywarn&style=flat-square" alt="Profile views" />
 </p>
+
+## 📊 GitHub Stats
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=Bodywarn&show_icons=true&locale=en&rank_icon=github" 
+    alt="Bodywarn GitHub Stats" 
+  />
+</p>
+
+<p align="center">
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Bodywarn" 
+    alt="GitHub Streak" 
+  />
+</p>
+
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bodywarn&layout=compact" 
+    alt="Top Languages" 
+  />
+</p>
+
+<p align="center">
+  <img 
+    src="https://komarev.com/ghpvc/?username=Bodywarn&style=flat-square" 
+    alt="Profile views" 
+  />
+</p>
