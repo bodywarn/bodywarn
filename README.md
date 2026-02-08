@@ -4,7 +4,7 @@
   <img src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif?cid=790b7611b31agwec022u0d2xj2nxxc8ay6hpvp1b9320xbws&ep=v1_gifs_search&rid=giphy.gif&ct=g" height="120" />
   
   # Hey, I'm **Bodywarn** 👋
-  *Full-stack developer, designer & student building sleek, interactive web experiences.*
+  *Full-stack developer, designer and I'm building sleek, interactive web experiences.*
   
   🧠 Always learning & leveling up  
   🔗 [Check out my portfolio](https://bodywarn.com)
