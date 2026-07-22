@@ -4,43 +4,18 @@
   <img src="images/dark_mode.svg" alt="GitHub Stats" />
 </picture>
 
-<div align="left">
-  <img src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif?cid=790b7611b31agwec022u0d2xj2nxxc8ay6hpvp1b9320xbws&ep=v1_gifs_search&rid=giphy.gif&ct=g" height="120" />
-  
-  # Hey, I'm **Bodywarn** 👋
-  *Full-stack developer, designer and I'm building sleek, interactive web experiences.*
-  
-  🧠 Always learning & leveling up  
-  🔗 [Check out my portfolio](https://bodywarn.com)
+<div align="center">
+  <h1>Hey, I'm Bodywarn 👋</h1>
+
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1000&center=true&vCenter=true&width=600&duration=3500&color=58A6FF&background=00000000&lines=Full-stack+developer+%26+designer;Building+sleek%2C+interactive+experiences;Vue+%E2%80%A2+Nuxt+%E2%80%A2+React+%E2%80%A2+Next;Always+learning+%26+leveling+up+%F0%9F%A7%A0" alt="Typing animation" />
+
+  <p>🔗 <a href="https://bodywarn.com">Check out my portfolio</a></p>
 </div>
 
 ---
 
-## 🌐 Connect With Me
-
-<p align="left">
-  <a href="https://discord.com/users/823441227071619104"><img src="https://img.shields.io/badge/Discord-%237289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
-  <a href="https://facebook.com/nicklaz.lentz.33"><img src="https://img.shields.io/badge/Facebook-%231877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
-  <a href="https://instagram.com/ngl0249"><img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/ngl0249"><img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-</p>
-
----
-
-## 🧰 Tech Tools i mostly use in my workflow  
-
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" />
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" height="40" />
-</p>
-
----
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="images/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="images/github-snake.svg">
+  <img src="images/github-snake-dark.svg" alt="Snake eating my contributions" />
+</picture>
