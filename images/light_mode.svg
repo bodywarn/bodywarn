@@ -1,56 +1,56 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<svg xmlns="http://www.w3.org/2000/svg" width="1426" height="673" font-family="'DejaVu Sans Mono','Cascadia Code','Courier New',monospace" font-size="15px">
-<rect width="100%" height="100%" rx="12" fill="#e7e9ec"/>
-<text x="24" y="40" fill="#5f6670" xml:space="preserve">
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1140" height="600" font-family="'DejaVu Sans Mono','Cascadia Code','Courier New',monospace" font-size="15px">
+<rect width="100%" height="100%" rx="12" fill="#e7e9ec" />
+<text x="24" y="89" fill="#5f6670" xml:space="preserve" font-size="12px">
 <tspan x="24" dy="0">                [|11</tspan>
-<tspan x="24" dy="21">              tZ@@@@@@@@#J</tspan>
-<tspan x="24" dy="21">           X@@@@@@@BBB@@@@@@m</tspan>
-<tspan x="24" dy="21">         \@@@%WWBBB%&amp;MWMW&amp;8@@@Z</tspan>
-<tspan x="24" dy="21">         @@WWW&amp;%@&amp;@@@@@@@@@B%@@#</tspan>
-<tspan x="24" dy="21">         f@@@@@o%B@B%QMM*k8B@%@@</tspan>
-<tspan x="24" dy="21">          Mw  npd( 1{      ZW&amp;@@</tspan>
-<tspan x="24" dy="21">          Q\)vxv1  )uv/  {  nnZ&amp;</tspan>
-<tspan x="24" dy="21">         {|v0pBC   tcQZf    |)t ))</tspan>
-<tspan x="24" dy="21">         0|    (           }t[ \/f</tspan>
-<tspan x="24" dy="21">         |f[[ 1} 1{        |u {u)</tspan>
-<tspan x="24" dy="21">         (zt[ /O(n\      }1{t   }</tspan>
-<tspan x="24" dy="21">          Xj  ff)        (\(c)1</tspan>
-<tspan x="24" dy="21">           L }ZwLJuz1   [\(jc v</tspan>
-<tspan x="24" dy="21">           tX1}}         |jzf u[</tspan>
-<tspan x="24" dy="21">            1U\         tJYt  /u</tspan>
-<tspan x="24" dy="21">              vCUn/fuObamJ/    f}</tspan>
-<tspan x="24" dy="21">                XdJQLUu|}     [</tspan>
-<tspan x="24" dy="21">                 C1             j@@@w</tspan>
-<tspan x="24" dy="21">                  pOr|1[      w@@@B@@@q</tspan>
-<tspan x="24" dy="21">                 qncujf    f@@@@%%BB8@@@#</tspan>
-<tspan x="24" dy="21">               L@@  }{  fb@@@B%BB@@BB%8B@@h</tspan>
-<tspan x="24" dy="21">           }m@@@@@q(tm8@@@@%%@@@@BBBBBBB8@@@C</tspan>
-<tspan x="24" dy="21">         v@@@@B8B@@@@@@@B%B@@B@@@BBBBBBBB%8@@@x</tspan>
-<tspan x="24" dy="21">       Z@@@B%BB@@@%%%BBB@@@@B@@BBBBBBBBBBBBB8@@@</tspan>
-<tspan x="24" dy="21">     Y@@@%B@B@@@@@@@@BB@@@@B@@@BBBBBBBBBBBBBB%8@@</tspan>
-<tspan x="24" dy="21">     @@%@@@@@@@@@@@@@B@@@@@B@@BB@BBBBBBBBBBBBBB8@@</tspan>
-<tspan x="24" dy="21">    x@%@@@@@@@@@@B@@B@@@@@@@@@@@@@BBBBBBBBBBBBBB%@Q</tspan>
-<tspan x="24" dy="21">    O@B@B@@@@@@@@@@BB@@@@@@@@@@@@@BBBBBBBBBBBBBBB%@j</tspan>
+<tspan x="24" dy="17">              tZ@@@@@@@@#J</tspan>
+<tspan x="24" dy="17">           X@@@@@@@BBB@@@@@@m</tspan>
+<tspan x="24" dy="17">         \@@@%WWBBB%&amp;MWMW&amp;8@@@Z</tspan>
+<tspan x="24" dy="17">         @@WWW&amp;%@&amp;@@@@@@@@@B%@@#</tspan>
+<tspan x="24" dy="17">         f@@@@@o%B@B%QMM*k8B@%@@</tspan>
+<tspan x="24" dy="17">          Mw  npd( 1{      ZW&amp;@@</tspan>
+<tspan x="24" dy="17">          Q\)vxv1  )uv/  {  nnZ&amp;</tspan>
+<tspan x="24" dy="17">         {|v0pBC   tcQZf    |)t ))</tspan>
+<tspan x="24" dy="17">         0|    (           }t[ \/f</tspan>
+<tspan x="24" dy="17">         |f[[ 1} 1{        |u {u)</tspan>
+<tspan x="24" dy="17">         (zt[ /O(n\      }1{t   }</tspan>
+<tspan x="24" dy="17">          Xj  ff)        (\(c)1</tspan>
+<tspan x="24" dy="17">           L }ZwLJuz1   [\(jc v</tspan>
+<tspan x="24" dy="17">           tX1}}         |jzf u[</tspan>
+<tspan x="24" dy="17">            1U\         tJYt  /u</tspan>
+<tspan x="24" dy="17">              vCUn/fuObamJ/    f}</tspan>
+<tspan x="24" dy="17">                XdJQLUu|}     [</tspan>
+<tspan x="24" dy="17">                 C1             j@@@w</tspan>
+<tspan x="24" dy="17">                  pOr|1[      w@@@B@@@q</tspan>
+<tspan x="24" dy="17">                 qncujf    f@@@@%%BB8@@@#</tspan>
+<tspan x="24" dy="17">               L@@  }{  fb@@@B%BB@@BB%8B@@h</tspan>
+<tspan x="24" dy="17">           }m@@@@@q(tm8@@@@%%@@@@BBBBBBB8@@@C</tspan>
+<tspan x="24" dy="17">         v@@@@B8B@@@@@@@B%B@@B@@@BBBBBBBB%8@@@x</tspan>
+<tspan x="24" dy="17">       Z@@@B%BB@@@%%%BBB@@@@B@@BBBBBBBBBBBBB8@@@</tspan>
+<tspan x="24" dy="17">     Y@@@%B@B@@@@@@@@BB@@@@B@@@BBBBBBBBBBBBBB%8@@</tspan>
+<tspan x="24" dy="17">     @@%@@@@@@@@@@@@@B@@@@@B@@BB@BBBBBBBBBBBBBB8@@</tspan>
+<tspan x="24" dy="17">    x@%@@@@@@@@@@B@@B@@@@@@@@@@@@@BBBBBBBBBBBBBB%@Q</tspan>
+<tspan x="24" dy="17">    O@B@B@@@@@@@@@@BB@@@@@@@@@@@@@BBBBBBBBBBBBBBB%@j</tspan>
 </text>
-<text x="532" y="40" xml:space="preserve"><tspan fill="#20272f">bodywarn </tspan><tspan fill="#b7c0cb">───────────────────────────────────────────────────────────────────────────────────</tspan></text>
-<text x="532" y="82" xml:space="preserve"><tspan fill="#8a939f">· </tspan><tspan fill="#b9741a">OS: </tspan><tspan fill="#b7c0cb"> ...................................... </tspan><tspan fill="#3060c0">Windows 11, MacBook</tspan></text>
-<text x="532" y="103" xml:space="preserve"><tspan fill="#8a939f">· </tspan><tspan fill="#b9741a">Uptime: </tspan><tspan id="uptime_data_dots" fill="#b7c0cb"> .................................. </tspan><tspan id="uptime_data" fill="#3060c0">20 years, 5 months, 0 days</tspan></text>
-<text x="532" y="124" xml:space="preserve"><tspan fill="#8a939f">· </tspan><tspan fill="#b9741a">Host: </tspan><tspan fill="#b7c0cb"> .................................... </tspan><tspan fill="#3060c0">Personal Workstation</tspan></text>
-<text x="532" y="145" xml:space="preserve"><tspan fill="#8a939f">· </tspan><tspan fill="#b9741a">Kernel: </tspan><tspan fill="#b7c0cb"> .................................. </tspan><tspan fill="#3060c0">Darwin 23.4.0 / Windows NT 10.0</tspan></text>
-<text x="532" y="166" xml:space="preserve"><tspan fill="#8a939f">· </tspan><tspan fill="#b9741a">IDE: </tspan><tspan fill="#b7c0cb"> ..................................... </tspan><tspan fill="#3060c0">VScode 1.96.0</tspan></text>
-<text x="532" y="208" xml:space="preserve"><tspan fill="#8a939f">· </tspan><tspan fill="#b9741a">Languages.Programming: </tspan><tspan fill="#b7c0cb"> ................... </tspan><tspan fill="#3060c0">Shopify, Ts, Java, Python, C#, C++, Lua</tspan></text>
-<text x="532" y="229" xml:space="preserve"><tspan fill="#8a939f">· </tspan><tspan fill="#b9741a">Languages.Computer: </tspan><tspan fill="#b7c0cb"> ...................... </tspan><tspan fill="#3060c0">Html, Css, Json</tspan></text>
-<text x="532" y="250" xml:space="preserve"><tspan fill="#8a939f">· </tspan><tspan fill="#b9741a">Languages.Framework: </tspan><tspan fill="#b7c0cb"> ..................... </tspan><tspan fill="#3060c0">Vue, Nuxt, Vite, React, Next, Electron,</tspan></text>
-<text x="532" y="271" xml:space="preserve"><tspan fill="#3060c0">                                              Supabase, Firebase</tspan></text>
-<text x="532" y="292" xml:space="preserve"><tspan fill="#8a939f">· </tspan><tspan fill="#b9741a">Languages.Real: </tspan><tspan fill="#b7c0cb"> .......................... </tspan><tspan fill="#3060c0">Danish - English</tspan></text>
-<text x="532" y="334" xml:space="preserve"><tspan fill="#8a939f">· </tspan><tspan fill="#b9741a">Hobbies.Software: </tspan><tspan fill="#b7c0cb"> ........................ </tspan><tspan fill="#3060c0">Developing, AI Solution, Gaming, Jailbreaking</tspan></text>
-<text x="532" y="355" xml:space="preserve"><tspan fill="#8a939f">· </tspan><tspan fill="#b9741a">Hobbies.Hardware: </tspan><tspan fill="#b7c0cb"> ........................ </tspan><tspan fill="#3060c0">Overclocking</tspan></text>
-<text x="532" y="397" xml:space="preserve"><tspan fill="#20272f">Contact </tspan><tspan fill="#b7c0cb">────────────────────────────────────────────────────────────────────────────────────</tspan></text>
-<text x="532" y="418" xml:space="preserve"><tspan fill="#8a939f">· </tspan><tspan fill="#b9741a">Email.Personal: </tspan><tspan fill="#b7c0cb"> .......................... </tspan><tspan fill="#3060c0">bodywarns@gmail.com</tspan></text>
-<text x="532" y="439" xml:space="preserve"><tspan fill="#8a939f">· </tspan><tspan fill="#b9741a">LinkedIn: </tspan><tspan fill="#b7c0cb"> ................................ </tspan><tspan fill="#3060c0">ngl0249</tspan></text>
-<text x="532" y="460" xml:space="preserve"><tspan fill="#8a939f">· </tspan><tspan fill="#b9741a">Discord: </tspan><tspan fill="#b7c0cb"> ................................. </tspan><tspan fill="#3060c0">bodywarn</tspan></text>
-<text x="532" y="502" xml:space="preserve"><tspan fill="#20272f">GitHub Stats </tspan><tspan fill="#b7c0cb">───────────────────────────────────────────────────────────────────────────────</tspan></text>
-<text x="532" y="523" xml:space="preserve"><tspan fill="#8a939f">· </tspan><tspan fill="#b9741a">Repos: </tspan><tspan id="repo_data_dots" fill="#b7c0cb"> .... </tspan><tspan id="repo_data" fill="#2a2f36">58</tspan><tspan fill="#b9741a"> {Contributed: </tspan><tspan id="contrib_data" fill="#2a2f36">58</tspan><tspan fill="#b9741a">} | Stars: </tspan><tspan id="star_data_dots" fill="#b7c0cb"> ............. </tspan><tspan id="star_data" fill="#2a2f36">0</tspan></text>
-<text x="532" y="544" xml:space="preserve"><tspan fill="#8a939f">· </tspan><tspan fill="#b9741a">Commits: </tspan><tspan id="commit_data_dots" fill="#b7c0cb"> ................. </tspan><tspan id="commit_data" fill="#2a2f36">6,302</tspan><tspan fill="#b9741a"> | Followers: </tspan><tspan id="follower_data_dots" fill="#b7c0cb"> ......... </tspan><tspan id="follower_data" fill="#2a2f36">4</tspan></text>
-<text x="532" y="565" xml:space="preserve"><tspan fill="#8a939f">· </tspan><tspan fill="#b9741a">Lines of Code on GitHub: </tspan><tspan id="loc_data_dots" fill="#b7c0cb"></tspan><tspan id="loc_data" fill="#2a2f36">4,713,434</tspan><tspan fill="#b9741a"> ( </tspan><tspan id="loc_add" fill="#2f9e50">4,966,217</tspan><tspan fill="#2f9e50">++, </tspan><tspan id="loc_del_dots" fill="#b7c0cb"></tspan><tspan id="loc_del" fill="#c53434">252,783</tspan><tspan fill="#c53434">-- )</tspan></text>
+<text x="430" y="40" xml:space="preserve"><tspan fill="#20272f">bodywarn </tspan><tspan fill="#b7c0cb">──────────────────────────────────────────────────────────────────</tspan></text>
+<text x="430" y="82" xml:space="preserve"><tspan fill="#8a939f">· </tspan><tspan fill="#b9741a">OS: </tspan><tspan fill="#b7c0cb"> ...................... </tspan><tspan fill="#3060c0">Windows 11, MacBook</tspan></text>
+<text x="430" y="103" xml:space="preserve"><tspan fill="#8a939f">· </tspan><tspan fill="#b9741a">Uptime: </tspan><tspan id="uptime_data_dots" fill="#b7c0cb"> .................. </tspan><tspan id="uptime_data" fill="#3060c0">20 years, 5 months, 0 days</tspan></text>
+<text x="430" y="124" xml:space="preserve"><tspan fill="#8a939f">· </tspan><tspan fill="#b9741a">Host: </tspan><tspan fill="#b7c0cb"> .................... </tspan><tspan fill="#3060c0">Personal Workstation</tspan></text>
+<text x="430" y="145" xml:space="preserve"><tspan fill="#8a939f">· </tspan><tspan fill="#b9741a">Kernel: </tspan><tspan fill="#b7c0cb"> .................. </tspan><tspan fill="#3060c0">Darwin 23.4.0 / Windows NT 10.0</tspan></text>
+<text x="430" y="166" xml:space="preserve"><tspan fill="#8a939f">· </tspan><tspan fill="#b9741a">IDE: </tspan><tspan fill="#b7c0cb"> ..................... </tspan><tspan fill="#3060c0">VScode 1.96.0</tspan></text>
+<text x="430" y="208" xml:space="preserve"><tspan fill="#8a939f">· </tspan><tspan fill="#b9741a">Languages.Programming: </tspan><tspan fill="#b7c0cb"> ... </tspan><tspan fill="#3060c0">Shopify, Ts, Java, Python, C#, C++, Lua</tspan></text>
+<text x="430" y="229" xml:space="preserve"><tspan fill="#8a939f">· </tspan><tspan fill="#b9741a">Languages.Computer: </tspan><tspan fill="#b7c0cb"> ...... </tspan><tspan fill="#3060c0">Html, Css, Json</tspan></text>
+<text x="430" y="250" xml:space="preserve"><tspan fill="#8a939f">· </tspan><tspan fill="#b9741a">Languages.Framework: </tspan><tspan fill="#b7c0cb"> ..... </tspan><tspan fill="#3060c0">Vue, Nuxt, Vite, React, Next, Electron,</tspan></text>
+<text x="430" y="271" xml:space="preserve"><tspan fill="#3060c0">                              Supabase, Firebase</tspan></text>
+<text x="430" y="292" xml:space="preserve"><tspan fill="#8a939f">· </tspan><tspan fill="#b9741a">Languages.Real: </tspan><tspan fill="#b7c0cb"> .......... </tspan><tspan fill="#3060c0">Danish - English</tspan></text>
+<text x="430" y="334" xml:space="preserve"><tspan fill="#8a939f">· </tspan><tspan fill="#b9741a">Hobbies.Software: </tspan><tspan fill="#b7c0cb"> ........ </tspan><tspan fill="#3060c0">Developing, AI Solution, Gaming, Jailbreaking</tspan></text>
+<text x="430" y="355" xml:space="preserve"><tspan fill="#8a939f">· </tspan><tspan fill="#b9741a">Hobbies.Hardware: </tspan><tspan fill="#b7c0cb"> ........ </tspan><tspan fill="#3060c0">Overclocking</tspan></text>
+<text x="430" y="397" xml:space="preserve"><tspan fill="#20272f">Contact </tspan><tspan fill="#b7c0cb">───────────────────────────────────────────────────────────────────</tspan></text>
+<text x="430" y="418" xml:space="preserve"><tspan fill="#8a939f">· </tspan><tspan fill="#b9741a">Email.Personal: </tspan><tspan fill="#b7c0cb"> .......... </tspan><tspan fill="#3060c0">bodywarns@gmail.com</tspan></text>
+<text x="430" y="439" xml:space="preserve"><tspan fill="#8a939f">· </tspan><tspan fill="#b9741a">LinkedIn: </tspan><tspan fill="#b7c0cb"> ................ </tspan><tspan fill="#3060c0">ngl0249</tspan></text>
+<text x="430" y="460" xml:space="preserve"><tspan fill="#8a939f">· </tspan><tspan fill="#b9741a">Discord: </tspan><tspan fill="#b7c0cb"> ................. </tspan><tspan fill="#3060c0">bodywarn</tspan></text>
+<text x="430" y="502" xml:space="preserve"><tspan fill="#20272f">GitHub Stats </tspan><tspan fill="#b7c0cb">──────────────────────────────────────────────────────────────</tspan></text>
+<text x="430" y="523" xml:space="preserve"><tspan fill="#8a939f">· </tspan><tspan fill="#b9741a">Repos: </tspan><tspan id="repo_data_dots" fill="#b7c0cb"> .... </tspan><tspan id="repo_data" fill="#2a2f36">58</tspan><tspan fill="#b9741a"> {Contributed: </tspan><tspan id="contrib_data" fill="#2a2f36">58</tspan><tspan fill="#b9741a">} | Stars: </tspan><tspan id="star_data_dots" fill="#b7c0cb"> ............. </tspan><tspan id="star_data" fill="#2a2f36">0</tspan></text>
+<text x="430" y="544" xml:space="preserve"><tspan fill="#8a939f">· </tspan><tspan fill="#b9741a">Commits: </tspan><tspan id="commit_data_dots" fill="#b7c0cb"> ................. </tspan><tspan id="commit_data" fill="#2a2f36">6,302</tspan><tspan fill="#b9741a"> | Followers: </tspan><tspan id="follower_data_dots" fill="#b7c0cb"> ......... </tspan><tspan id="follower_data" fill="#2a2f36">4</tspan></text>
+<text x="430" y="565" xml:space="preserve"><tspan fill="#8a939f">· </tspan><tspan fill="#b9741a">Lines of Code on GitHub: </tspan><tspan id="loc_data_dots" fill="#b7c0cb" /><tspan id="loc_data" fill="#2a2f36">4,713,434</tspan><tspan fill="#b9741a"> ( </tspan><tspan id="loc_add" fill="#2f9e50">4,966,217</tspan><tspan fill="#2f9e50">++, </tspan><tspan id="loc_del_dots" fill="#b7c0cb" /><tspan id="loc_del" fill="#c53434">252,783</tspan><tspan fill="#c53434">-- )</tspan></text>
 </svg>
