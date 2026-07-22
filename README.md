@@ -41,4 +41,10 @@
 
 ---
 
-</p>
+## 📊 GitHub Stats
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="images/dark_mode.svg">
+  <source media="(prefers-color-scheme: light)" srcset="images/light_mode.svg">
+  <img src="images/dark_mode.svg" alt="GitHub Stats" />
+</picture>
