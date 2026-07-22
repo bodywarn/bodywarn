@@ -1,4 +1,8 @@
-![Banner](images/bannergithub.gif)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="images/dark_mode.svg">
+  <source media="(prefers-color-scheme: light)" srcset="images/light_mode.svg">
+  <img src="images/dark_mode.svg" alt="GitHub Stats" />
+</picture>
 
 <div align="left">
   <img src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif?cid=790b7611b31agwec022u0d2xj2nxxc8ay6hpvp1b9320xbws&ep=v1_gifs_search&rid=giphy.gif&ct=g" height="120" />
@@ -40,11 +44,3 @@
 </p>
 
 ---
-
-## 📊 GitHub Stats
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="images/dark_mode.svg">
-  <source media="(prefers-color-scheme: light)" srcset="images/light_mode.svg">
-  <img src="images/dark_mode.svg" alt="GitHub Stats" />
-</picture>
