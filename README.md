@@ -41,14 +41,4 @@
 
 ---
 
-## 📊 GitHub Stats
-
-## 📊 GitHub Stats
-<p align="left">
-  <img src="https://dit-projekt.vercel.app/api?username=bodywarn&theme=nord&show_icons=true" width="600">
-</p>
-<p align="left">
-  <img src="https://dit-projekt.vercel.app/api/top-langs/?username=bodywarn&theme=nord&layout=compact" width="600">
-</p>
-
 </p>
